@@ -1,0 +1,2 @@
+# kodluyoruz-veriYapilari
+Veri Yapilari
